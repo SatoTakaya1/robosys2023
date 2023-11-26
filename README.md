@@ -29,4 +29,4 @@
   * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2023 Sato Takaya
 ## スペシャルサンクス
- * 
+ * Yamato Osadaから、testの説明を受けました. 
